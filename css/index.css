@@ -144,3 +144,23 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.navList {
+    display: flex;
+    width: 800px;
+    margin: auto;
+}
+
+.navList li {
+    width: 128px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo {
+    width: 157px;
+    height: 40px;
+    background-image: url('../img/lambda-black.png');
+}
