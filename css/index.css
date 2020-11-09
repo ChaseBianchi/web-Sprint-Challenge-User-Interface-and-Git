@@ -120,7 +120,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-}.middle-content .boxes .box3 {
+}
+.middle-content .boxes .box3 {
     width: 12.5%;
     height: 100px;
     background: cadetblue;
@@ -129,7 +130,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-}.middle-content .boxes .box4 {
+}
+.middle-content .boxes .box4 {
     width: 12.5%;
     height: 100px;
     background: coral;
@@ -138,7 +140,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-}.middle-content .boxes .box5 {
+}
+.middle-content .boxes .box5 {
     width: 12.5%;
     height: 100px;
     background: crimson;
@@ -147,7 +150,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-}.middle-content .boxes .box6 {
+}
+.middle-content .boxes .box6 {
     width: 12.5%;
     height: 100px;
     background: forestgreen;
@@ -156,7 +160,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-}.middle-content .boxes .box7 {
+}
+.middle-content .boxes .box7 {
     width: 12.5%;
     height: 100px;
     background: darkorchid;
@@ -165,7 +170,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-}.middle-content .boxes .box8 {
+}
+.middle-content .boxes .box8 {
     width: 12.5%;
     height: 100px;
     background: hotpink;
@@ -174,7 +180,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-}.middle-content .boxes .box9 {
+}
+.middle-content .boxes .box9 {
     width: 12.5%;
     height: 100px;
     background: indigo;
@@ -183,7 +190,8 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-}.middle-content .boxes .box10 {
+}
+.middle-content .boxes .box10 {
     width: 12.5%;
     height: 100px;
     background: dodgerblue;
@@ -231,6 +239,7 @@ footer nav a {
     display: flex;
     width: 800px;
     margin: auto;
+    padding-top: 20px;
 }
 
 .navList li {
@@ -260,4 +269,11 @@ a:link {
     height: 153px;
     margin: 20px, auto;
     background-image: url('../img/jumbo.jpg');
+}
+
+.headerAbout {
+    width: 800px;
+    height: 153px;
+    margin: 20px, auto;
+    background-image: url('../img/jumbo-about.png');
 }
