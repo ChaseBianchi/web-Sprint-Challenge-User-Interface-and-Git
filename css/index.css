@@ -277,3 +277,9 @@ a:link {
     margin: 20px, auto;
     background-image: url('../img/jumbo-about.png');
 }
+
+.aboutBox {
+    display: flex;
+    width: 800px;
+}
+
