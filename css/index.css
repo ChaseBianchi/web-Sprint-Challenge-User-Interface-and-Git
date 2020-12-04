@@ -326,3 +326,60 @@ footer {
 .footnav a:hover {
     background-color: rgb(78, 78, 78);
 }
+.banner img {
+    width: 800px;
+    height: auto;
+}
+.banner {
+    width: 100%;
+    height: auto;
+    margin: 3% 0;
+}
+
+.aboutContainer {
+    width: 100%;
+    height: 100%;
+    max-width: 1000px;
+    min-width: 800px;
+    background-color: white;
+    /* border: 4px solid red; */
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 0 8%;
+}
+.about {
+    width: 100%;
+    padding: 0% 5% 5%;
+    border-bottom: 2px dotted black;
+}
+.quadbox {
+    display: flex;
+    flex-flow: row wrap;
+    width: 800px;
+    height: 800px;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    margin: 20px 0 30px;
+    border-bottom: 2px dotted black;
+}
+.flexbox {
+    width: 350px;
+    margin: 10px;
+    display: flex;
+    flex-flow: column nowrap;
+}
+button {
+    width: 100px;
+    margin:10px;
+    background-color: white;
+    border-radius: 8px;
+    border: 2px solid rgb(20, 20, 20);
+    height: 30px;
+}
+
+.together {
+    width: 100%;
+    height: 300px;
+    margin: 10px;
+    /* border: 5px solid red; */
+}
