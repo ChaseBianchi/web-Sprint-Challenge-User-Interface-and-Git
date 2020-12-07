@@ -379,7 +379,8 @@ button {
 
 .together {
     width: 100%;
-    height: 300px;
+    height: 400px;
     margin: 10px;
+    padding-bottom: 100px
     /* border: 5px solid red; */
 }
